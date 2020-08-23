@@ -1,6 +1,6 @@
 def create_an_empty_array
  []
-endf
+end
 
 def create_an_array
 ["mom", "dylan", "tavia", "kinlee"]
